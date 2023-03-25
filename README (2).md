@@ -1,6 +1,6 @@
 # Ray Tracer Project README
 
-![](./screenshots/intro.png)
+![](src/screenshots/intro.png)
 ## OS and Hardware Specifications: 
 	Operating System: Windows 11
 	CPU: Intel Core i9-10850K
@@ -96,7 +96,7 @@ Sources Used:
 
  Camera Pos:(0,2,2) Camera lookAt: (0.5,2,2)  Render time 0:29 min/sec
 
- ![](./screenshots/scenecowcamera.png)
+ ![](src/screenshots/scenecowcamera.png)
 
 
  ### Monkey & Teapot ( All reflective surface multile light sources)
@@ -133,17 +133,17 @@ No Camera, no reflection, 50 spheres, random radius  Render Time: 0:37 min/sec
 
 No Camera, reflection 50 Spheres, random radius  Render Time: 3:10 min/sec
 
-![](./screenshots/particalnocamreflection.png) 
+![](src/screenshots/particalnocamreflection.png) 
 
 
 No Camera, no reflection, 1000 spheres, 0.15 radius Render Time: 2:59 min/sec
 
-![](./screenshots/1000noref.png) 
+![](src/screenshots/1000noref.png) 
 
 
 No Camera, reflection, 1000 spheres, 0.15 radius (would not recommend trying)  Render Time: 17:11 min/sec
 
-![](./screenshots/1000reflections.png) 
+![](src/screenshots/1000reflections.png) 
 
 
 
